@@ -12,7 +12,7 @@ AppVeyor is an ideal platform for integration testing:
 
 AppVeyor has most popular services and database engines pre-installed on all build machines:
 
-* [SQL Server 2008](#sql-server-2008)
+* [SQL Server 2008](#sql-server-2008) (`Visual Studio 2013` and `Visual Studio 2015` images only)
 * [SQL Server 2012](#sql-server-2012)
 * [SQL Server 2014](#sql-server-2014)
 * [SQL Server 2016](#sql-server-2016)
